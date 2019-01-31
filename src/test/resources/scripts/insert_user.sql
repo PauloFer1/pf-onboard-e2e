@@ -1,0 +1,2 @@
+INSERT INTO PF_USER(UUID, CREATED_AT, FIRST_NAME, LAST_NAME, PASSWORD)
+VALUES (uuid(), '2018-11-27 22:28:18.388', 'cucumber file', 'cuc', 'test');
